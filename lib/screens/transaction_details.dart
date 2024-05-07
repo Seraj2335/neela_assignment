@@ -31,7 +31,7 @@ class TransactionDetails extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
           Container(
-            height: size.height * .72,
+            // height: size.height * .72,
             margin: EdgeInsets.symmetric(horizontal: 15, vertical: 5),
             padding: EdgeInsets.symmetric(horizontal: 10, vertical: 15),
             decoration: BoxDecoration(
